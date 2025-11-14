@@ -10,6 +10,7 @@ powerbi             → Task2- Walmart.pbix file
 docs                → Project report (Task_Report_2)
 README.md            → Main project documentation
 
+
 🎯 Key Objectives
 
 Identify churned and retained customers
@@ -23,6 +24,7 @@ Study impact of promotions
 Compare churn across store types & regions
 
 Evaluate loyalty tier engagement and redemption behavior
+
 
 📊 Dashboard Highlights
 
@@ -52,6 +54,7 @@ CLV vs Days Since Last Purchase
 
 Transaction Trends (Year, Month, Category)
 
+
 ⚙️ Data Preparation
 
 All tables were processed in Power Query:
@@ -67,6 +70,7 @@ Merged Stores with Transactions
 Merged Loyalty & Churn labels with Customers
 
 Cleaned null/invalid values
+
 
 ⚡ DAX Metrics Used
 
@@ -88,6 +92,7 @@ Loyalty Segments
 
 (Full formulas available in Task report)
 
+
 🔍 Insights & Recommendations
 
 Focus retention efforts on high-CLV and mid-tier repeat customers
@@ -100,6 +105,7 @@ Personalize win-back campaigns for inactive high-value customers
 
 Optimize promotion strategy, as current uplift is limited
 
+
 🛠 Tools & Technologies
 
 Power BI Desktop
@@ -110,16 +116,16 @@ DAX
 
 Excel / CSV datasets
 
+
 📘 Report
 
 A detailed project report is available in:
 
 /docs/TASK_REPORT_2.pdf
-
-
 It includes visuals, KPIs, methodology, and complete analysis.
 
 👤 Author
 
 Pramod B B
+
 Data Analyst | Power BI | Analytics
